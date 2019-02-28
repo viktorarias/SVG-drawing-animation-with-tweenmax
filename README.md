@@ -1,5 +1,7 @@
-Here you can find how to create dynamics paths into SVG tag sotorage all coordinates in a simple array.
-For this example, i needed to create a HTML element using NS some like this:
+#SVG drawing and animation using TweenMax
+
+Here you can find how to create dynamics paths into SVG tag, storing all coordinates in a simple array.
+For this example, I needed to create a HTML element using NS for use in SVG tag, some like this:
 
 ```
 let createPath = document.createElementNS(NS,'path');

@@ -21,7 +21,7 @@ Then, install `parcel` to bundle the files
 <br>
 `npm install -g parcel-bundler`
 
-More details in parcel oficial site.
+More details in <a href="" target="_blank">parcel oficial site.</a>
 
 #Run local server and compile the files
 `npm run dev`

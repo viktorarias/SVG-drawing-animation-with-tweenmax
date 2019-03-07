@@ -1,4 +1,5 @@
-.DStore
+.DS_Store
+.cache
 package-lock.json
 /dist
 node_modules

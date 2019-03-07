@@ -49,6 +49,8 @@ const timeline = new TimelineMax();
     8,{
       strokeDashoffset: 2000,
       strokeDasharray: 2000,
+      force3D: true,
+      ritationZ: 0.01,
       ease: SlowMo.ease.config(0.1, 0.1, false)
     }
   );
